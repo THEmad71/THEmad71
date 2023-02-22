@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amad uddin osama</h1>
-<h3 align="center">A passionate Software Engineer Developer from Bangladesh</h3>
+<h1 align="center">Hi , I'm Amad uddin osama</h1>
+<h3 align="center">who loves to code and solve problems.</h3>
 
 <img aligh="right" alt="coding" width=400 src="https://miro.medium.com/max/1400/1*mB6YLIGqIk1hTzU6Fb12zQ.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=themad71&label=Profile%20views&color=0e75b6&style=flat" alt="themad71" /> </p>
